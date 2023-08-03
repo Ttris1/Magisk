@@ -1,3 +1,5 @@
+
+merge.md
 # Magisk Changelog
 
 ### v26.1
